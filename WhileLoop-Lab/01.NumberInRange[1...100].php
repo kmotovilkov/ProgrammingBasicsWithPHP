@@ -7,4 +7,4 @@ while ($num > 1 || $num < 100) {
 }
 echo "Invalid number!";
 
-?>
+
