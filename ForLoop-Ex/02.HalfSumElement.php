@@ -24,4 +24,4 @@ if ($sum == $max) {
     echo "Diff = $diff";
 }
 
-?>
+
