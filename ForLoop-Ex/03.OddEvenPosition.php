@@ -57,4 +57,4 @@ if ($n < 0) {
     echo "EvenMin = $evenMin" . PHP_EOL;
     echo "EvenMax = $evenMax" . PHP_EOL;
 }
-?>
+
