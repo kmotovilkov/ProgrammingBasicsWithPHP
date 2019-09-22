@@ -13,4 +13,4 @@ while ($counter <= 12) {
 $average = $sum / 12;
 printf("%s graduated. Average grade: %.2f", $name, $average);
 
-?>
+
