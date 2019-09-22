@@ -38,4 +38,4 @@ echo "%" . PHP_EOL;
 printf("%.2f", $numPercentAbove800);
 echo "%";
 
-?>
+
