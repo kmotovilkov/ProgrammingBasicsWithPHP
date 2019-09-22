@@ -22,4 +22,4 @@ if ($diff == 0) {
 } else {
     echo "No, maxdiff=$diff";
 }
-?>
+
